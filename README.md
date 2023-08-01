@@ -8,21 +8,21 @@
 
 #### 🤔 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on *Retina Fundus Images Using Deep Learning and Computer Vision*
-- 🌱 I’m currently learning Bioinformatics/Computational Biotechnology, Blockchain Technology and Flutter
-- 👯 I’m looking to collaborate on ML/AI/DL research projects
-- 🤔 I’m looking for help with CyberSecurity, Web3.0 and MERN stack
+- 🔭 I’m currently working on *100 day's of code using Python*
+- 🌱 I’m currently learning BackEnd Development using Python(Flask) and DataBase.
+- 👯 I’m looking to collaborate on real-time projects
+- 🤔 I’m looking for help with Web3.0 and Connecting People
 - 💬 Ask me about [here]((https://twitter.com/QuestIn_))
 - 🔗 Connect with me :
 		
 <a href="https://www.linkedin.com/in/yashwanth-s-1a869a24a/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/QuestIn_"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;
 
 #### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having tremendous amount of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
+I embarked on my coding journey with languages like Python, C, and Java, building a strong programming base. As I progressed, I was drawn towards the art of Frontend Development, crafting user-friendly interfaces that breathe life into ideas. I set a couple self-challenges in order to push myself more further. 
 
-* Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
+* Learn to code 4-6 hours a day with no distraction ( One or two day off a week. ) 
 * Read a book a month
-* Workout 3 days in a row and take a day break 
+* Workout 4 days in a row and take a day break 
 * Avoid over usage of social media
 * Adapting the minimalism life style
 
@@ -31,7 +31,7 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 
-<details>	
+
 
 ## 🔧 Tools
 
