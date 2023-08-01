@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning BackEnd Development using Python(Flask) and DataBase.
 - 👯 I’m looking to collaborate on real-time projects
 - 🤔 I’m looking for help with Web3.0 and Connecting People
-- 💬 Ask me about [here]((https://twitter.com/QuestIn_))
+- 💬 Ask me about [here](https://twitter.com/QuestIn_)
 - 🔗 Connect with me :
 		
 <a href="https://www.linkedin.com/in/yashwanth-s-1a869a24a/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/QuestIn_"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;
