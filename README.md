@@ -15,7 +15,7 @@
 - 💬 Ask me about [here](https://twitter.com/QuestIn_)
 - 🔗 Connect with me :
 		
-<a href="www.linkedin.com/in/yashwanth7795"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/QuestIn_"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;
+
 
 #### 🌱 Challenges that I’m currently challenging myself:
 I embarked on my coding journey with languages like Python, C, and Java, building a strong programming base. As I progressed, I was drawn towards the art of Frontend Development, crafting user-friendly interfaces that breathe life into ideas. I set a couple self-challenges in order to push myself more further. 
