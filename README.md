@@ -8,9 +8,9 @@
 #### 🤔 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on *QuestIn (StartUp)*
-- 🌱 I’m currently learning BackEnd Development using Python(Flask) and DataBase.
+- 🌱 I’m currently learning Data analysis.
 - 👯 I’m looking to collaborate on real-time projects
-- 🤔 I’m looking for help with Web3.0 and Connecting People
+- 🤔 I’m looking for help with Web and Connecting People
 - 💬 Ask me about [here](https://twitter.com/QuestIn_)
 - 🔗 Connect with me :
 		
