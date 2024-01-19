@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yashwanth</h1>
-<img align="right" alt="GIF" width="680px" src="https://github.com/cybergeekgyan/cybergeekgyan/blob/main/img/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif"/>
 <h3 align="left">AI-ML Enthusiast</h3>
 <h4 align="left">Senior at AMC Engineering College, Bangalore</h4>
 
